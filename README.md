@@ -1,2 +1,2 @@
-# QUACS
-Quantum Unwanted Access Classification System
+# Q-CHEAP
+Quantum-Communication Hidden Eavesdropper Analysis Protocol
